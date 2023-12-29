@@ -1,0 +1,539 @@
+body{
+    overflow-x: hidden;
+}
+
+nav{
+    margin-left: 15%;
+    margin-top: 0.5%;
+    
+}
+nav a{
+    
+    color: #adabab;
+    padding-right: 15px;
+}
+
+nav a:hover{
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.logo{
+   
+    margin-top: 0.5%;
+    
+    
+ 
+
+    
+}
+
+
+.heading {
+   
+     padding-top: 20px;
+    padding-bottom: 5px;
+    
+    
+    
+}
+
+.request {
+    border-radius: 20px;
+    color: white;
+   
+    margin-bottom: 10px;
+padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-left:20%;
+    background: linear-gradient(45deg,#00a300,#25ddff)
+     
+}
+.request:hover{
+     background: linear-gradient(45deg,rgb(155, 245, 127),rgb(234, 245, 244));
+    transition: 0.2s;
+}
+
+
+
+.finance {
+    width: 380px;
+    color: grey;
+    margin-bottom: 7%;
+}
+
+.invite {
+      border-radius: 20px;
+    color: white;
+    background: linear-gradient(45deg,#00a300,#25ddff);
+padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-left: 20%;
+    
+}
+.invite:hover{
+     background: linear-gradient(45deg,rgb(155, 245, 127),rgb(234, 245, 244));
+   
+}
+
+
+
+
+
+.generation {
+    width: 300px;
+    margin-bottom: 5%;
+   
+    margin-left: 10%;
+    
+}
+
+
+
+
+
+
+
+.mock {
+  position: absolute;
+margin-top: -10%;
+    margin-left: 25%;
+    width: 500px
+
+}
+
+
+
+
+.account {
+    background-color:whitesmoke;
+    padding-bottom: 11%;
+    padding-top: 5%;
+    margin-top: 5%;
+
+  
+   
+    
+}
+
+
+
+
+
+
+.idk {
+background-color: white;
+    position: fixed;
+    z-index: 1;
+    top:0;
+    width: 100%;
+    
+}
+
+
+
+.idkman {
+   
+    margin-top: -19%;
+    margin-left: 10%;
+     position:absolute;
+    width: 900px;
+}
+
+.section {
+    background-color: #e8e8e8;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+.leverage {
+    color:grey;
+    width: 70%;
+     margin-left: 10%;
+    margin-bottom: 10%;
+}
+
+.choose {
+    font-family: sans-serif;
+     margin-left: 5%;
+}
+
+
+
+
+
+.adl {
+    background-color: black;
+    
+}
+
+.online {
+    font-family: sans-serif;
+    
+}
+
+.modern {
+    color:grey;
+    font-family: sans-serif;
+    margin-left: 4%;
+   width: 90%;
+    margin-top: 10%;
+}
+
+
+
+
+
+.smol {
+    font-size: 190%;
+    font-family: sans-serif;
+}
+
+.cob {
+    color: grey;
+    margin-top: 10%;
+}
+
+.icons{
+ margin-bottom: 6%;   
+}
+
+
+
+.API {
+    width: 130%;
+}
+
+.latest {
+    font-family: sans-serif;
+    padding-top: 6%;
+    margin-left: 10%;
+}
+
+.features {
+     background-color:#e2e2e2;
+    padding-bottom: 3%;
+}
+
+.clair {
+    color: grey;
+    margin-left: 30px;
+
+}
+
+.currency {
+
+  
+    background-color: white;
+    margin-left: 2%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+.receive {
+    width: 90%;
+    font-size:130%;
+    font-family: sans-serif;
+    margin-left: 20px;
+    
+
+}
+
+
+
+
+
+
+
+.image {
+    
+}
+
+.theworld {
+    width: 90%;
+    color: grey;      
+    font-size: 15px;
+    margin-left: 10%;
+    
+
+}
+
+
+
+
+
+
+.claire {
+    color: grey;
+    margin-left: 20px;
+}
+
+
+
+
+
+.loll {
+    background-color: white;
+    
+   
+}
+
+
+
+
+
+.col {
+ 
+    
+}
+
+.restaurant {
+    background-color: white;
+}
+
+.link {
+    color: black;
+}
+.link:hover{
+    color: cyan;
+    text-decoration: none;
+    transition: 0.2s
+}
+
+.footer {
+    background-color: #0e0b22;
+    padding-bottom: 2%
+}
+
+.lmfao {
+    color: white;
+}
+
+
+
+.About {
+    color: white;
+    list-style-type: none;
+    margin-bottom: 4%;
+}
+
+.logo2 {
+    margin-top: 10%;
+    margin-left: 3%
+}
+
+.anything {
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+
+
+.social {
+    margin-right: 4%; 
+}
+
+.links {
+    margin-top: 15%;
+}
+
+.sups {
+    
+}
+
+
+
+.control {
+    padding-left:30%;
+    padding-top: 7%;
+}
+
+.secondlinks {
+    color: white;
+    list-style-type: none;
+    margin-bottom: 5%;
+}
+
+.notany {
+    margin-top: 9%;
+}
+
+
+
+
+
+
+.thirdreq {
+      border-radius: 20px;
+    color: white;
+padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+ background: linear-gradient(45deg,#00a300,#25ddff);
+    border: solid 1px green;
+    margin-top: 10%;
+}
+
+.thirdreq:hover{
+     background: linear-gradient(45deg,rgb(155, 245, 127),rgb(234, 245, 244));
+   
+}
+.forhover {
+    color: white;
+}
+
+.forhover:hover{
+    color: green;
+    transition: 0.2s;
+    text-decoration: none;
+}
+
+.copyright {
+    color: #9b9b9b;
+    margin-top: 10%;
+}
+
+.take {
+    padding-bottom: 1.4%;
+}
+
+.simple {
+    padding-bottom: 1.4%;
+}
+
+.menu {
+    display: none;
+}
+
+
+.fixed {
+    position: fixed;
+    margin-left: 40%;
+    margin-top: 2%;
+    list-style-type: none;
+    background-color: white;
+    border: solid 1px ;
+    padding: 1%;
+    padding-right: 5%;
+    padding-left: 5%;
+    display: none;
+    
+}
+
+.trying {
+    display: block;
+    color: black;
+    margin-bottom: 10%;
+}
+.trying:hover{
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.close {
+    display: none;
+}
+
+.secondmock {
+    margin-left: 10%;
+    position: absolute;
+   display: none;
+    margin-top: -15%;
+}
+
+.secondmob {
+    position: absolute;
+    margin-top: -15%;
+   display: none;
+    
+}
+
+@media screen and (max-width:992px){
+    
+    .cob{
+        margin-top: 0;
+    }
+    .icons{
+        margin-left: 10%
+    }
+    
+    .notany{
+        margin-top: 0;
+        padding-left: 40%;
+    }
+    .anything{
+        padding-left: 30%;
+    }
+    .forhover{
+        font-size: 25px;
+    }
+    .thirdreq{
+        margin-left: 35%;
+        font-size: 140%;
+    }
+    .copyright{
+        padding-left: 30%;
+        font-size: 130%;
+    }
+    .easybank{
+        width: 50%;
+    }
+
+    .social{
+        width: 7%;
+    }
+    .notdis{
+        display: none;
+    }
+    .request{
+        display: none;
+    }
+    .menu{
+        display:block;
+        margin-left: 1800%;
+    }
+    .idkman{
+        display: none;
+    }
+    .mock{
+        display: none;
+    }
+    .generation{
+        margin-top: 120%;
+        margin-left: 30%
+    }
+    .secondmock{
+        display: block;
+    }
+    .secondmob{
+        display: block;
+    }
+    .finance{
+        margin-left: 20%
+    }
+    .invite{
+margin-left: 50%;
+    
+    }
+}
+
+@media screen and (max-width:800px){
+    .menu{
+        display: block;
+        margin-left: 900%
+    }
+}
